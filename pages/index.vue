@@ -22,7 +22,7 @@ import "../styles/index.css"
 import "@/styles/app.css"
 export default {
   data(){
-    return{ sentence:"helooo",
+    return{ sentence:"Hello World ! Do not press too fast 🥴",
     today : new Date(),
     seen:false
     }
