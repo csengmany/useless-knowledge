@@ -7,7 +7,7 @@ Generate a new fact.
 Click on the text to copy.
 <br>
 
-- Link to website : [https://usless-kwnoledge-cathy.netlify.app/](https://usless-kwnoledge-cathy.netlify.app/)
+- Link to website : [https://usless-knowledge-cathy.netlify.app/](https://usless-knowledge-cathy.netlify.app/)
 
 ## Screenshots
 
