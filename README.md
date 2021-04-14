@@ -1,4 +1,22 @@
-# SavoirInutile
+# Useless Knowledge
+
+## Overview
+
+VueJS training project.
+Generate a new fact.
+Click on the text to copy.
+<br>
+
+- Link to website : [https://usless-kwnoledge-cathy.netlify.app/](https://usless-kwnoledge-cathy.netlify.app/)
+
+## Screenshots
+
+<div align="center">
+    <img
+		width="900"
+		alt="Usless Knowledge screenshot"
+		src="./preview/capture.png">
+</div>
 
 ## Build Setup
 
